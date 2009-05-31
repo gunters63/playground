@@ -9,6 +9,7 @@ using AN_Client.srcNonFramed;
 
 #endregion
 
+/// Bla bla bla 
 namespace AN_Client.srcFramed
 {
     class Dialog : IDialog, IDialogCallbacks

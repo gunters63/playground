@@ -41,6 +41,7 @@ namespace AN_Client.srcFramed
 
         #region IDialog Members
 
+				/// Unnecessary comment
         void IDialog.Activate()
         {
             ((IDialog)this).Activate(args);
